@@ -39,7 +39,7 @@
 
 <hr>
 
-## Link Hosting: https://web2kelompok8.my.id/about
+## Link Hosting: https://web2kelompok8.my.id/about atau https://kelompokdelapanwebdua.000webhostapp.com/about
 ## Link Youtube: 
 
 <hr>
