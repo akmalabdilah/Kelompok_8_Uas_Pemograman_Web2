@@ -50,13 +50,104 @@
 
 ![11_Lab11Web](Gambar/1.png)
 
-Gambar 1. Tampilan Sistem
+ Tampilan Sistem
 
 
 <p>
-Disini saya sebagai ketua kelompok 8 akan menjelaskan cara pembuatan sistem seperti gambar di atas di gosting  sisanya seperti menu dan database akan di jelaskan oleh anggota kelompok dan wakil saya.
+Disini saya sebagai ketua kelompok 8 akan menjelaskan cara pembuatan sistem seperti gambar di atas di bagian hosting  sisanya seperti menu dan database akan di jelaskan oleh anggota kelompok dan wakil saya.
 </p>
 
+
+<p>
+Saya dua hosting seperti link yang di atas kenapa dua hosting karna satu hosting berbayar cpanel hanya satu bulan saja masa aktifnya sedangkan hosting satu lagi yang geratisan selamannya
+</p>
+
+<hr>
+
+## Cara mengaupload file ci4 di hosting berbayar cpanel
+
+<hr>
+
+<p>
+1. Kalian masuk akun cpanel kalian
+</P>
+
+![11_Lab11Web](Gambar/2.png)
+![11_Lab11Web](Gambar/3.png)
+
+<p>
+2. Kalian cari dan masuk pada menu file manager
+</P>
+
+![11_Lab11Web](Gambar/4.png)
+
+<p>
+3. Setelah itu kalian akan di sugukan tampilan seperti ini 
+</P>
+
+![11_Lab11Web](Gambar/5.png)
+
+<p>
+Jangan lupa di dalam file manager ini langsung kalian cari bacaan +folder dan namain folder itu dengan nama ci4 setelah itu masuk folder ci4 dan kalian cari bacaan upload di atas kalian di dalam folder ci4 dan upload file ci4 kalian jangan lupa zip terlebih dahulu.
+</p>
+
+![11_Lab11Web](Gambar/6.png)
+
+<p>
+4. Setelah itu kalian extrak file zip ci4 di folder ci4 kalian
+</P>
+
+![11_Lab11Web](Gambar/7.png)
+
+<p>
+5. Setelah itu kalian setting dulu seperti gambar di bawah
+</P>
+
+![11_Lab11Web](Gambar/8.png)
+
+
+
+<p>
+6. Setelah itu kalian kembali ke menu utama cpanel dan kita cari menu database wizard seperti gambar di bawah 
+kalian ikuti gambar dibawah supaya kalian paham.
+</P>
+
+![11_Lab11Web](Gambar/9.png)
+![11_Lab11Web](Gambar/10.png)
+![11_Lab11Web](Gambar/11.png)
+![11_Lab11Web](Gambar/12.png)
+![11_Lab11Web](Gambar/13.png)
+
+<p>
+Kembali kemunu utama cari menu phpmyadmin dan masuk menu itu kita masukan file database yang sudah kita buat atau kalian bisa membuat langsung databasnya di menu ini
+</p>
+
+![11_Lab11Web](Gambar/14.png)
+
+<p>
+7. Setelah itu kalian kalian kembali ke menu utama dan masuk kembali ke file maneger mausuk ke folder ci4 carai file .env ubah file nya seperti di gambar bawah
+
+catatan: sesuaikan dengan nama domain nama database nama userdatabe serta password yangb kalian buat
+</P>
+
+![11_Lab11Web](Gambar/15.png)
+
+<p>
+8. karna penjelasan banyak kalian ikuti saja gambar dibawah
+
+</P>
+
+![11_Lab11Web](Gambar/16.png)
+
+<p>masuk kemeni ci4/app/config/app.php</p>
+
+![11_Lab11Web](Gambar/17.png)
+
+<p>masuk kemeni ci4/app/config/database.php</p>
+
+<p> Sekarang kalian sudah memiliki web hosting cpanel online dengan database dan cara menseting hosting gratisan di link kedua kurang lebih sama cuman beda tampilan saja oke semoga berhasil.
+
+Sisa penjelasan nanti di jelaskan oleh kawan saya. </p>
 
 
 
