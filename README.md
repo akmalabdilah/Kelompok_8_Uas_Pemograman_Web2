@@ -119,7 +119,7 @@ kalian ikuti gambar dibawah supaya kalian paham.
 ![11_Lab11Web](Gambar/13.png)
 
 <p>
-Kembali kemunu utama cari menu phpmyadmin dan masuk menu itu kita masukan file database yang sudah kita buat atau kalian bisa membuat langsung databasnya di menu ini
+Kembali ke menu utama cari menu phpmyadmin dan masuk menu itu kita masukan file database yang sudah kita buat atau kalian bisa membuat langsung databasnya di menu ini
 </p>
 
 ![11_Lab11Web](Gambar/14.png)
@@ -139,11 +139,11 @@ catatan: sesuaikan dengan nama domain nama database nama userdatabe serta passwo
 
 ![11_Lab11Web](Gambar/16.JPG)
 
-<p>masuk kemeni ci4/app/config/app.php</p>
+<p>masuk ke menu ci4/app/config/app.php</p>
 
 ![11_Lab11Web](Gambar/17.JPG)
 
-<p>masuk kemeni ci4/app/config/database.php</p>
+<p>masuk ke menu ci4/app/config/database.php</p>
 
 <p> Sekarang kalian sudah memiliki web hosting cpanel online dengan database dan cara menseting hosting gratisan di link kedua kurang lebih sama cuman beda tampilan saja oke semoga berhasil.
 
