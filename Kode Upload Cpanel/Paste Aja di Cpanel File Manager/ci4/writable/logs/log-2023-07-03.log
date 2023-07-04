@@ -1,0 +1,58 @@
+CRITICAL - 2023-07-03 01:14:12 --> Invalid file: halo_view.php
+#0 /home/web2kelompok8my/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('halo_view.php')
+#1 /home/web2kelompok8my/public_html/system/Common.php(1089): CodeIgniter\View\View->render('halo_view', Array, true)
+#2 /home/web2kelompok8my/public_html/app/Controllers/Halo.php(11): view('halo_view', Array)
+#3 /home/web2kelompok8my/public_html/system/CodeIgniter.php(832): App\Controllers\Halo->index()
+#4 /home/web2kelompok8my/public_html/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halo))
+#5 /home/web2kelompok8my/public_html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/web2kelompok8my/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-07-03 01:28:05 --> Class "CodeIgniter\Database\https\Connection" not found
+#0 /home/web2kelompok8my/public_html/system/Database/Database.php(56): CodeIgniter\Database\Database->initDriver('https', 'CodeIgniter\\Dat...', Array)
+#1 /home/web2kelompok8my/public_html/system/Database/Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 /home/web2kelompok8my/public_html/system/Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 /home/web2kelompok8my/public_html/app/Controllers/warga.php(10): CodeIgniter\Model->__construct()
+#4 /home/web2kelompok8my/public_html/system/CodeIgniter.php(832): App\Controllers\warga->index()
+#5 /home/web2kelompok8my/public_html/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\warga))
+#6 /home/web2kelompok8my/public_html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/web2kelompok8my/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-07-03 01:28:07 --> Class "CodeIgniter\Database\https\Connection" not found
+#0 /home/web2kelompok8my/public_html/system/Database/Database.php(56): CodeIgniter\Database\Database->initDriver('https', 'CodeIgniter\\Dat...', Array)
+#1 /home/web2kelompok8my/public_html/system/Database/Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 /home/web2kelompok8my/public_html/system/Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 /home/web2kelompok8my/public_html/app/Controllers/warga.php(10): CodeIgniter\Model->__construct()
+#4 /home/web2kelompok8my/public_html/system/CodeIgniter.php(832): App\Controllers\warga->index()
+#5 /home/web2kelompok8my/public_html/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\warga))
+#6 /home/web2kelompok8my/public_html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/web2kelompok8my/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-07-03 01:28:10 --> Class "CodeIgniter\Database\https\Connection" not found
+#0 /home/web2kelompok8my/public_html/system/Database/Database.php(56): CodeIgniter\Database\Database->initDriver('https', 'CodeIgniter\\Dat...', Array)
+#1 /home/web2kelompok8my/public_html/system/Database/Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 /home/web2kelompok8my/public_html/system/Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 /home/web2kelompok8my/public_html/app/Controllers/warga.php(10): CodeIgniter\Model->__construct()
+#4 /home/web2kelompok8my/public_html/system/CodeIgniter.php(832): App\Controllers\warga->index()
+#5 /home/web2kelompok8my/public_html/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\warga))
+#6 /home/web2kelompok8my/public_html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/web2kelompok8my/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-07-03 01:28:11 --> Class "CodeIgniter\Database\https\Connection" not found
+#0 /home/web2kelompok8my/public_html/system/Database/Database.php(56): CodeIgniter\Database\Database->initDriver('https', 'CodeIgniter\\Dat...', Array)
+#1 /home/web2kelompok8my/public_html/system/Database/Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 /home/web2kelompok8my/public_html/system/Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 /home/web2kelompok8my/public_html/app/Controllers/warga.php(10): CodeIgniter\Model->__construct()
+#4 /home/web2kelompok8my/public_html/system/CodeIgniter.php(832): App\Controllers\warga->index()
+#5 /home/web2kelompok8my/public_html/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\warga))
+#6 /home/web2kelompok8my/public_html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/web2kelompok8my/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-07-03 21:25:45 --> Invalid file: halo_view.php
+#0 /home/web2kelompok8my/ci4/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('halo_view.php')
+#1 /home/web2kelompok8my/ci4/system/Common.php(1089): CodeIgniter\View\View->render('halo_view', Array, true)
+#2 /home/web2kelompok8my/ci4/app/Controllers/Halo.php(11): view('halo_view', Array)
+#3 /home/web2kelompok8my/ci4/system/CodeIgniter.php(832): App\Controllers\Halo->index()
+#4 /home/web2kelompok8my/ci4/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halo))
+#5 /home/web2kelompok8my/ci4/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/web2kelompok8my/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

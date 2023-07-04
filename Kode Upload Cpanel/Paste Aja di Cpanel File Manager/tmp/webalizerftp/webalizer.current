@@ -1,0 +1,1647 @@
+# Webalizer V2.23-08 Incremental Data - 07/02/2023 04:24:48
+2023 7 2 4 24 48
+769 769 3 758 0 0 6316007 16 1 1
+2 3 399 1 2
+1 1 281 1 0 0
+768 768 6315726 2 16 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+399 399 4570747 14
+366 366 1741384 2
+3 3 3595 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 281 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+769
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/web2kelompok8my/public_html/system/Database/Migration.php
+0 1 0 1335 0 0
+/home/web2kelompok8my/public_html/CHANGELOG.md
+0 1 94725684245712 372728 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/EmergencyError.php
+0 1 0 375 0 0
+/home/web2kelompok8my/public_html/system/Router/RouterInterface.php
+0 1 0 1740 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688265789.json
+0 1 94725684291760 15007 0 0
+/home/web2kelompok8my/public_html/system/Router/Exceptions/RedirectException.php
+0 1 94725684352288 484 0 0
+/home/web2kelompok8my/public_html/system/Helpers/cookie_helper.php
+0 1 0 3211 0 0
+/home/web2kelompok8my/public_html/system/Images/Exceptions/ImageException.php
+0 1 94725684343008 1776 0 0
+/home/web2kelompok8my/public_html/system/Publisher/Exceptions/PublisherException.php
+0 1 94725684350800 1412 0 0
+/home/web2kelompok8my/public_html/tests/_support/View/Views/simples.php
+0 1 0 39 0 0
+/home/web2kelompok8my/public_html/system/Cache/Handlers/PredisHandler.php
+0 1 94725684304096 5093 0 0
+/home/web2kelompok8my/public_html/tests/_support/SomeEntity.php
+0 1 0 429 0 0
+/home/web2kelompok8my/public_html/app/Views/template/header_view.php
+0 1 0 1073 0 0
+/home/web2kelompok8my/public_html/system/Log/Exceptions/LogException.php
+0 1 94725684348320 686 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/LICENSE
+0 1 0 1142 0 0
+/home/web2kelompok8my/public_html/system/Helpers/array_helper.php
+0 1 0 6591 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Router.php
+0 1 0 508 0 0
+/home/web2kelompok8my/public_html/system/CLI/Commands.php
+0 1 0 4717 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/TimestampPlugin.php
+0 1 94725684364064 2427 0 0
+/home/web2kelompok8my/public_html/system/Database/Postgre/Builder.php
+0 1 0 8887 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/portrait_2.jpg
+0 1 94725684282480 21741 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235358.json
+0 1 94725684294048 35281 0 0
+/home/web2kelompok8my/public_html/tests/_support/Commands/ParamsReveal.php
+0 1 94725684274944 657 0 0
+/home/web2kelompok8my/public_html/app/Views/errors/html/debug.js
+0 1 0 2409 0 0
+/home/web2kelompok8my/public_html/system/Helpers/xml_helper.php
+0 1 0 1416 0 0
+/home/web2kelompok8my/public_html/system/View/Filters.php
+0 1 0 6155 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/ColorPlugin.php
+0 1 94725684367264 2071 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-07-06.log
+0 1 0 5378 0 0
+/home/web2kelompok8my/public_html/system/Session/Exceptions/SessionException.php
+0 1 94725684353280 1345 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/History.php
+0 1 94725684324592 4363 0 0
+/home/web2kelompok8my/public_html/system/Commands/Utilities/Environment.php
+0 1 94725684312784 4295 0 0
+/home/web2kelompok8my/public_html/system/Cache/CacheInterface.php
+0 1 0 2752 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688232481.json
+0 1 94725684295984 15006 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688234817.json
+0 1 94725684294576 14961 0 0
+/home/web2kelompok8my/public_html/tests/_support/Database/Migrations/20160428212500_Create_test_tables.php
+0 1 94725684277296 8113 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/FsPathPlugin.php
+0 1 94725684366736 2174 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/ConfigException.php
+0 1 0 611 0 0
+/home/web2kelompok8my/public_html/system/Config/Factories.php
+0 1 0 9930 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Cache.php
+0 1 0 605 0 0
+/home/web2kelompok8my/public_html/system/Cookie/CookieInterface.php
+0 1 0 4285 0 0
+/home/web2kelompok8my/public_html/system/Commands/Utilities/Namespaces.php
+0 1 94725684312608 1878 0 0
+/home/web2kelompok8my/public_html/app/Views/errors/html/error_404.php
+0 1 0 1494 0 0
+/home/web2kelompok8my/public_html/app/Views/welcome_message.php
+0 1 0 18309 0 0
+/home/web2kelompok8my/public_html/tests/_support/Log/Handlers/TestHandler.php
+0 1 94725684286432 1450 0 0
+/home/web2kelompok8my/public_html/system/Filters/Filters.php
+0 1 0 15556 0 0
+/home/web2kelompok8my/public_html/tests/_support/Commands/AbstractInfo.php
+0 1 94725684275792 524 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/Base64Plugin.php
+0 1 94725684368320 2791 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/Representation/SplFileInfoRepresentation.php
+0 1 94725684378544 5979 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/ArrayCast.php
+0 1 0 797 0 0
+/home/web2kelompok8my/public_html/app/Views/about.php
+0 1 94725684271296 922 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/CallFinder.php
+0 1 0 16422 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/_config.tpl
+0 1 94725684326672 973 0 0
+/home/web2kelompok8my/public_html/system/Entity/Exceptions/CastException.php
+0 1 94725684330976 2013 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Kint.php
+0 1 0 21833 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/Views/command.tpl.php
+0 1 94725684311440 1314 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/StringCast.php
+0 1 0 502 0 0
+/home/web2kelompok8my/public_html/app/Config/View.php
+0 1 94725684261024 1337 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/en/Language.php
+0 1 94725684285424 400 0 0
+/home/web2kelompok8my/public_html/system/Security/Security.php
+0 1 0 15059 0 0
+/home/web2kelompok8my/public_html/system/Test/Constraints/SeeInDatabase.php
+0 1 94725684357072 2901 0 0
+/home/web2kelompok8my/public_html/system/Router/RouteCollectionInterface.php
+0 1 94725684351616 5204 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/AbstractLogger.php
+0 1 94725684381152 3104 0 0
+/home/web2kelompok8my/public_html/system/Database/Postgre/Utils.php
+0 1 0 979 0 0
+/home/web2kelompok8my/public_html/system/Validation/FileRules.php
+0 1 0 6654 0 0
+/home/web2kelompok8my/public_html/tests/_support/Files/able/apple.php
+0 1 0 251 0 0
+/home/web2kelompok8my/public_html/system/HTTP/ResponseInterface.php
+0 1 0 13210 0 0
+/home/web2kelompok8my/public_html/tests/_support/Validation/uploads/phpUxc0ty
+0 1 94725684289984 4614 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/SecondMockLanguage.php
+0 1 94725684284592 741 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/landscape_1.jpg
+0 1 94725684284240 21316 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Text/ArrayLimitPlugin.php
+0 1 94725684374416 1637 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/TracePlugin.php
+0 1 94725684363712 3664 0 0
+/home/web2kelompok8my/public_html/system/Debug/Timer.php
+0 1 0 3206 0 0
+/home/web2kelompok8my/public_html/tests/_support/Widgets/NopeWidget.php
+0 1 0 269 0 0
+/home/web2kelompok8my/public_html/public/
+0 1 94725684246704 1334 0 0
+/home/web2kelompok8my/public_html/system/Pager/Views/default_head.php
+0 1 0 644 0 0
+/home/web2kelompok8my/public_html/app/Database/Migrations/.gitkeep
+0 1 0 0 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/IteratorPlugin.php
+0 1 94725684366560 3335 0 0
+/home/web2kelompok8my/public_html/system/Log/Handlers/HandlerInterface.php
+0 1 94725684348496 1000 0 0
+/home/web2kelompok8my/public_html/system/HTTP/RedirectResponse.php
+0 1 0 4027 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/ExceptionInterface.php
+0 1 94725684331984 488 0 0
+/home/web2kelompok8my/public_html/system/Test/ReflectionHelper.php
+0 1 0 2532 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLite3/PreparedQuery.php
+0 1 94725684321440 2406 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Renderer.php
+0 1 94725684369200 5063 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockSecurity.php
+0 1 0 709 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/ArrayLimitPlugin.php
+0 1 94725684368672 4084 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLSRV/Forge.php
+0 1 0 12890 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/portrait_7.jpg
+0 1 94725684281600 21621 0 0
+/home/web2kelompok8my/public_html/system/Commands/Cache/InfoCache.php
+0 1 0 1913 0 0
+/home/web2kelompok8my/public_html/system/Test/bootstrap.php
+0 1 0 4093 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/Representation/SourceRepresentation.php
+0 1 94725684378752 2643 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688232455.json
+0 1 94725684296160 14984 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/MigrateCreate.php
+0 1 94725684308976 2012 0 0
+/home/web2kelompok8my/public_html/tests/_support/Entity/Cast/NotExtendsBaseCast.php
+0 1 94725684278016 319 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235368.json
+0 1 94725684293696 35329 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688265533.json
+0 1 94725684291936 14956 0 0
+/home/web2kelompok8my/public_html/system/Commands/Utilities/Routes.php
+0 1 0 2443 0 0
+/home/web2kelompok8my/public_html/system/Cache/Handlers/DummyHandler.php
+0 1 94725684304448 1768 0 0
+/home/web2kelompok8my/public_html/system/Commands/Database/CreateDatabase.php
+0 1 94725684307552 4286 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/MicrotimePlugin.php
+0 1 94725684366208 3220 0 0
+/home/web2kelompok8my/public_html/system/Encryption/EncrypterInterface.php
+0 1 94725684327856 1131 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockSession.php
+0 1 0 1643 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/Views/migration.tpl.php
+0 1 94725684310560 1290 0 0
+/home/web2kelompok8my/public_html/system/Config/BaseService.php
+0 1 0 12766 0 0
+/home/web2kelompok8my/public_html/app/ThirdParty/.gitkeep
+0 1 0 0 0 0
+/home/web2kelompok8my/public_html/system/Cookie/Exceptions/CookieException.php
+0 1 94725684315536 3223 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235374.json
+0 1 94725684293344 35270 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/ColorPlugin.php
+0 1 94725684372176 3608 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/UserObjModel.php
+0 1 94725684287792 648 0 0
+/home/web2kelompok8my/public_html/app/Views/errors/html/production.php
+0 1 0 456 0 0
+/home/web2kelompok8my/public_html/system/Images/Image.php
+0 1 0 3172 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Text/BlacklistPlugin.php
+0 1 94725684374224 1636 0 0
+/home/web2kelompok8my/public_html/system/Test/TestLogger.php
+0 1 0 2072 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/portrait_5.jpg
+0 1 94725684281952 21799 0 0
+/home/web2kelompok8my/public_html/system/Cookie/CookieStore.php
+0 1 0 6341 0 0
+/home/web2kelompok8my/public_html/system/Session/Handlers/RedisHandler.php
+0 1 94725684353456 9271 0 0
+/home/web2kelompok8my/public_html/app/Config/Logger.php
+0 1 94725684263024 5882 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/Representation/MicrotimeRepresentation.php
+0 1 94725684379136 2404 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/Parser.php
+0 1 94725684366032 19059 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/TraceFrameValue.php
+0 1 94725684376608 4362 0 0
+/home/web2kelompok8my/public_html/system/Typography/Typography.php
+0 1 0 13345 0 0
+/home/web2kelompok8my/public_html/system/Config/Publisher.php
+0 1 0 1162 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/Value.php
+0 1 0 6603 0 0
+/home/web2kelompok8my/public_html/app/Views/laporan_view.php
+0 1 0 1993 0 0
+/home/web2kelompok8my/public_html/system/Test/ControllerTestTrait.php
+0 1 0 7025 0 0
+/home/web2kelompok8my/public_html/system/Log/Logger.php
+0 1 94725684348176 11523 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockFileLogger.php
+0 1 0 791 0 0
+/home/web2kelompok8my/public_html/writable/cache/
+0 1 94725684291616 131 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/ArrayLimitPlugin.php
+0 1 94725684373104 1481 0 0
+/home/web2kelompok8my/public_html/tests/_support/HTTP/Files/tmp/fileA.txt
+0 1 94725684280256 4 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/ClassStaticsPlugin.php
+0 1 94725684367616 4296 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLSRV/Connection.php
+0 1 0 14877 0 0
+/home/web2kelompok8my/public_html/system/Filters/SecureHeaders.php
+0 1 0 2101 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/Config.php
+0 1 94725684325296 994 0 0
+/home/web2kelompok8my/public_html/system/BaseModel.php
+0 1 94725684302448 48715 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235334.json
+0 1 94725684294224 35331 0 0
+/home/web2kelompok8my/public_html/tests/_support/Commands/AppInfo.php
+0 1 0 1040 0 0
+/home/web2kelompok8my/public_html/system/Session/Handlers/BaseHandler.php
+0 1 94725684354160 3578 0 0
+/home/web2kelompok8my/public_html/system/Test/FilterTestTrait.php
+0 1 0 8020 0 0
+/home/web2kelompok8my/public_html/.htaccess
+0 9 94725684232912 6180 0 0
+/home/web2kelompok8my/public_html/system/Helpers/security_helper.php
+0 1 0 1175 0 0
+/home/web2kelompok8my/public_html/tests/_support/Commands/LanguageCommand.php
+0 1 94725684275120 1362 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/TextRenderer.php
+0 1 94725684368848 9565 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Publisher.php
+0 1 0 810 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLite3/Builder.php
+0 1 0 1626 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Time.php
+0 1 0 1426 0 0
+/home/web2kelompok8my/public_html/system/Log/Handlers/ChromeLoggerHandler.php
+0 1 94725684349008 3838 0 0
+/home/web2kelompok8my/public_html/tests/_support/Commands/InvalidCommand.php
+0 1 94725684275296 780 0 0
+/home/web2kelompok8my/public_html/system/Commands/Database/MigrateStatus.php
+0 1 94725684306864 4395 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/AlertError.php
+0 1 0 407 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Encryption.php
+0 1 0 709 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/landscape_8.jpg
+0 1 94725684283008 21962 0 0
+/home/web2kelompok8my/public_html/tests/_support/Commands/Unsuffixable.php
+0 1 94725684274768 1414 0 0
+/home/web2kelompok8my/public_html/system/Validation/Rules.php
+0 1 0 8665 0 0
+/home/web2kelompok8my/public_html/system/Config/BaseConfig.php
+0 1 0 6770 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/en/More.php
+0 1 0 457 0 0
+/home/web2kelompok8my/public_html/system/HTTP/CLIRequest.php
+0 1 0 4861 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/Events.php
+0 1 94725684324944 3660 0 0
+/home/web2kelompok8my/public_html/tests/_support/Entity/User.php
+0 1 0 414 0 0
+/home/web2kelompok8my/public_html/system/Commands/Database/Seed.php
+0 1 0 1762 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/Logs.php
+0 1 94725684324416 2152 0 0
+/home/web2kelompok8my/public_html/system/Database/Query.php
+0 1 0 10337 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/ab-CD/Allin.php
+0 1 94725684284928 408 0 0
+/home/web2kelompok8my/public_html/app/Views/tambah_iuran.php
+0 1 0 3995 0 0
+/home/web2kelompok8my/public_html/system/Database/PreparedQueryInterface.php
+0 1 94725684316352 1274 0 0
+/home/web2kelompok8my/public_html/system/HTTP/Files/FileCollection.php
+0 1 0 6983 0 0
+/home/web2kelompok8my/public_html/system/Database/Exceptions/DataException.php
+0 1 94725684318640 2364 0 0
+/home/web2kelompok8my/public_html/app/Filters/.gitkeep
+0 1 94725684268480 0 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockResourceController.php
+0 1 94725684358912 619 0 0
+/home/web2kelompok8my/public_html/LICENSE
+0 1 94725684245040 1159 1 0
+/home/web2kelompok8my/public_html/system/Commands/Encryption/GenerateKey.php
+0 1 94725684307728 5321 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockResponse.php
+0 1 0 729 0 0
+/home/web2kelompok8my/public_html/system/HTTP/Header.php
+0 1 0 4287 0 0
+/home/web2kelompok8my/public_html/spark
+0 1 94725684246288 2197 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/InvalidArgumentException.php
+0 1 94725684380960 96 0 0
+/home/web2kelompok8my/public_html/tests/_support/Controllers/Hello.php
+0 1 0 408 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/ObjectCast.php
+0 1 0 502 0 0
+/home/web2kelompok8my/public_html/app/Config/Events.php
+0 1 94725684264560 1600 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/StringifyPkeyModel.php
+0 1 94725684288128 435 0 0
+/home/web2kelompok8my/public_html/system/Database/BaseConnection.php
+0 1 0 43044 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/JsonCast.php
+0 1 0 1645 0 0
+/home/web2kelompok8my/public_html/system/Format/Format.php
+0 1 0 1598 0 0
+/home/web2kelompok8my/public_html/system/Helpers/filesystem_helper.php
+0 1 0 15172 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockCLIConfig.php
+0 1 0 1142 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockLogger.php
+0 1 0 3906 0 0
+/home/web2kelompok8my/public_html/system/Files/FileCollection.php
+0 1 0 9709 0 0
+/home/web2kelompok8my/public_html/system/Images/Handlers/BaseHandler.php
+0 1 94725684343520 20030 0 0
+/home/web2kelompok8my/public_html/tests/_support/Config/TestRegistrar.php
+0 1 94725684275968 720 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/ci-logo.gif
+0 1 0 1844 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Images.php
+0 1 0 2296 0 0
+/home/web2kelompok8my/public_html/system/Validation/Exceptions/ValidationException.php
+0 1 94725684382800 1126 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688232517.json
+0 1 94725684295808 14635 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Database.php
+0 1 0 1694 0 0
+/home/web2kelompok8my/public_html/system/Pager/Views/default_simple.php
+0 1 0 610 0 0
+/home/web2kelompok8my/public_html/public/favicon.ico
+0 1 94725684246992 5430 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/ci-logo.webp
+0 1 0 5326 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/Files.php
+0 1 94725684324768 2933 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/SimpleXMLElementPlugin.php
+0 1 94725684365136 7452 0 0
+/home/web2kelompok8my/public_html/system/Debug/Exceptions.php
+0 1 0 13485 0 0
+/home/web2kelompok8my/public_html/system/Filters/Exceptions/FilterException.php
+0 1 94725684335088 1032 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Filters.php
+0 1 0 458 0 0
+/home/web2kelompok8my/public_html/system/HTTP/MessageTrait.php
+0 1 0 6356 0 0
+/home/web2kelompok8my/public_html/app/Config/Validation.php
+0 1 0 1070 0 0
+/home/web2kelompok8my/public_html/system/HTTP/Response.php
+0 1 0 9286 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/LoggerAwareInterface.php
+0 1 94725684380624 297 0 0
+/home/web2kelompok8my/public_html/app/Views/errors/cli/error_exception.php
+0 1 94725684271600 2027 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/BaseCast.php
+0 1 0 836 0 0
+/home/web2kelompok8my/public_html/system/HTTP/Request.php
+0 1 0 2928 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/NullLogger.php
+0 1 94725684379744 707 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/ClosurePlugin.php
+0 1 94725684372352 2248 0 0
+/home/web2kelompok8my/public_html/app/Libraries/.gitkeep
+0 1 0 0 0 0
+/home/web2kelompok8my/public_html/app/Config/Images.php
+0 1 94725684263312 740 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/IntegerCast.php
+0 1 0 498 0 0
+/home/web2kelompok8my/public_html/system/Validation/FormatRules.php
+0 1 0 8703 0 0
+/home/web2kelompok8my/public_html/writable/uploads/
+0 1 94725684300832 131 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235547.json
+0 1 94725684292640 35300 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/en/Allin.php
+0 1 0 407 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/Views/config.tpl.php
+0 1 94725684311264 111 0 0
+/home/web2kelompok8my/public_html/app/Language/en/Validation.php
+0 1 0 115 0 0
+/home/web2kelompok8my/public_html/system/Database/MySQLi/Utils.php
+0 1 0 961 0 0
+/home/web2kelompok8my/public_html/system/Debug/Kint/RichRenderer.php
+0 1 0 1960 0 0
+/home/web2kelompok8my/public_html/tests/_support/Autoloader/UnnamespacedClass.php
+0 1 94725684274064 280 0 0
+/home/web2kelompok8my/public_html/tests/_support/View/Views/simple.php
+0 1 0 27 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/Views/validation.tpl.php
+0 1 94725684310032 134 0 0
+/home/web2kelompok8my/public_html/tests/_support/Filters/Customfilter.php
+0 1 94725684279200 712 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/SimpleXMLElementValue.php
+0 1 94725684377136 1794 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Text/DepthLimitPlugin.php
+0 1 94725684374032 1637 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/landscape_7.jpg
+0 1 94725684283536 21631 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/_files.tpl
+0 1 0 315 0 0
+/home/web2kelompok8my/public_html/system/Format/Exceptions/FormatException.php
+0 1 94725684335904 1737 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/JsonPlugin.php
+0 1 94725684366384 2267 0 0
+/home/web2kelompok8my/public_html/app/Views/errors/cli/production.php
+0 1 0 139 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockConnection.php
+0 1 0 5305 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Fabricator.php
+0 1 0 501 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Escaper/Exception/InvalidArgumentException.php
+0 1 94725684361984 212 0 0
+/home/web2kelompok8my/public_html/system/Session/Handlers/DatabaseHandler.php
+0 1 94725684353984 8589 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/_history.tpl
+0 1 94725684325984 721 0 0
+/home/web2kelompok8my/public_html/app/Config/Services.php
+0 1 0 921 0 0
+/home/web2kelompok8my/public_html/system/Commands/Database/MigrateRefresh.php
+0 1 94725684307040 2158 0 0
+/home/web2kelompok8my/public_html/system/I18n/TimeDifference.php
+0 1 0 6998 0 0
+/home/web2kelompok8my/public_html/tests/_support/Files/able/prune_ripe.php
+0 1 94725684278544 251 0 0
+/home/web2kelompok8my/public_html/app/Models/.gitkeep
+0 1 94725684269552 0 0 0
+/home/web2kelompok8my/public_html/system/Validation/CreditCardRules.php
+0 1 0 8079 0 0
+/home/web2kelompok8my/public_html/system/Test/TestResponse.php
+0 1 0 13833 0 0
+/home/web2kelompok8my/public_html/system/Format/JSONFormatter.php
+0 1 0 1192 0 0
+/home/web2kelompok8my/public_html/system/Language/Language.php
+0 1 0 6815 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-07-02.log
+0 1 0 73619 0 0
+/home/web2kelompok8my/public_html/system/API/ResponseTrait.php
+0 1 0 11582 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/portrait_6.jpg
+0 1 94725684281776 21951 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockIncomingRequest.php
+0 1 94725684359568 470 0 0
+/home/web2kelompok8my/public_html/system/Events/Events.php
+0 1 0 7204 0 0
+/home/web2kelompok8my/public_html/app/Views/iuran_view.php
+0 1 0 2317 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/CommandGenerator.php
+0 1 94725684309856 3055 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687579283.json
+0 1 94725684296512 15788 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2023-06-10.log
+0 1 0 22156 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/portrait_0.jpg
+0 1 94725684282832 21734 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687523225.json
+0 1 94725684297216 35502 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/EntityModel.php
+0 1 0 680 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/Views.php
+0 1 94725684323888 3481 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Text/MicrotimePlugin.php
+0 1 94725684373840 4487 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/SplObjectStoragePlugin.php
+0 1 94725684364768 1834 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688233833.json
+0 1 94725684294928 14997 0 0
+/home/web2kelompok8my/public_html/system/Cookie/Cookie.php
+0 1 0 19330 0 0
+/home/web2kelompok8my/public_html/tests/_support/HTTP/Files/tmp/fileE.zip.rar
+0 1 94725684279728 441 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/resources/compiled/plain.css
+0 1 94725684375520 325 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Session.php
+0 1 0 939 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/portrait_1.jpg
+0 1 94725684282656 21311 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/resources/compiled/aante-light.css
+0 1 94725684376080 9026 0 0
+/home/web2kelompok8my/public_html/app/Config/Autoload.php
+0 1 0 2800 0 0
+/home/web2kelompok8my/public_html/system/HTTP/Files/UploadedFile.php
+0 1 0 11005 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687523159.json
+0 1 94725684297568 35503 0 0
+/home/web2kelompok8my/public_html/system/Database/BaseResult.php
+0 1 0 12492 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockEvents.php
+0 1 0 695 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLite3/Connection.php
+0 1 94725684321776 10507 0 0
+/home/web2kelompok8my/public_html/app/Config/Paths.php
+0 1 94725684262272 2812 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/SimpleXMLElementPlugin.php
+0 1 94725684370848 2652 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/SessionMigrationGenerator.php
+0 1 94725684308080 2658 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/CriticalError.php
+0 1 0 409 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLite3/Table.php
+0 1 0 8697 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/FrameworkException.php
+0 1 94725684331808 1773 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/ci-logo.png
+0 1 0 4537 0 0
+/home/web2kelompok8my/public_html/system/Cache/CacheFactory.php
+0 1 0 2535 0 0
+/home/web2kelompok8my/public_html/system/Test/CIDatabaseTestCase.php
+0 1 0 460 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688234859.json
+0 1 94725684294400 15005 0 0
+/home/web2kelompok8my/public_html/system/Publisher/Publisher.php
+0 1 0 12739 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-06-30.log
+0 1 0 5945 0 0
+/home/web2kelompok8my/public_html/README.md
+0 1 94725684245424 5017 0 0
+/home/web2kelompok8my/public_html/app/Config/UserAgents.php
+0 1 0 9789 0 0
+/home/web2kelompok8my/public_html/tests/_support/Helpers/baguette_helper.php
+0 1 94725684279376 251 0 0
+/home/web2kelompok8my/public_html/app/Views/template/footer_view.php
+0 1 0 2605 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/Views/controller.tpl.php
+0 1 94725684311088 2931 0 0
+/home/web2kelompok8my/public_html/writable/.htaccess
+0 1 94725684291472 124 0 0
+/home/web2kelompok8my/public_html/tests/_support/Validation/TestRules.php
+0 1 94725684289808 730 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/BinaryPlugin.php
+0 1 94725684372928 2103 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235540.json
+0 1 94725684292816 35302 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/resources/compiled/microtime.js
+0 1 94725684375888 984 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/TraceFramePlugin.php
+0 1 94725684369920 2629 0 0
+/home/web2kelompok8my/public_html/system/Config/Config.php
+0 1 0 1139 0 0
+/home/web2kelompok8my/public_html/tests/_support/Files/baker/banana.php
+0 1 0 251 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/Representation/DocstringRepresentation.php
+0 1 94725684379344 2604 0 0
+/home/web2kelompok8my/public_html/system/View/View.php
+0 1 94725684383296 13280 0 0
+/home/web2kelompok8my/public_html/system/Test/ControllerTester.php
+0 1 0 6782 0 0
+/home/web2kelompok8my/public_html/app/Config/DocTypes.php
+0 1 0 2772 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/en/Foo.php
+0 1 0 577 0 0
+/home/web2kelompok8my/public_html/app/Config/ForeignCharacters.php
+0 1 0 152 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Cast.php
+0 1 0 1005 0 0
+/home/web2kelompok8my/public_html/system/Cookie/CloneableCookieInterface.php
+0 1 94725684315360 2417 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/CallablePlugin.php
+0 1 94725684372544 5782 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/InstanceValue.php
+0 1 94725684377840 2471 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/ScaffoldGenerator.php
+0 1 94725684308448 3156 0 0
+/home/web2kelompok8my/public_html/app/Controllers/BaseController.php
+0 1 0 1383 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-07-01.log
+0 1 0 98445 0 0
+/home/web2kelompok8my/public_html/system/Throttle/ThrottlerInterface.php
+0 1 94725684381328 1244 0 0
+/home/web2kelompok8my/public_html/system/Filters/CSRF.php
+0 1 0 1864 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/LogLevel.php
+0 1 94725684379920 336 0 0
+/home/web2kelompok8my/public_html/system/Validation/Views/single.php
+0 1 0 51 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/MigrationGenerator.php
+0 1 94725684308800 3217 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687523154.json
+0 1 94725684297744 30201 0 0
+/home/web2kelompok8my/public_html/app/Models/Warga_Model.php
+0 1 0 978 0 0
+/home/web2kelompok8my/public_html/system/Cache/Exceptions/ExceptionInterface.php
+0 1 94725684303392 524 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Text/RecursionPlugin.php
+0 1 94725684373472 1634 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Number.php
+0 1 0 656 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/ModelException.php
+0 1 0 661 0 0
+/home/web2kelompok8my/public_html/system/Test/FeatureTestTrait.php
+0 1 0 10293 0 0
+/home/web2kelompok8my/public_html/system/Cache/Handlers/MemcachedHandler.php
+0 1 94725684304272 7208 0 0
+/home/web2kelompok8my/public_html/system/HTTP/ResponseTrait.php
+0 1 0 21510 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/PlainRenderer.php
+0 1 94725684369376 6602 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/LoggerAwareTrait.php
+0 1 94725684380448 402 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/SimpleEntity.php
+0 1 94725684288304 524 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/Views/filter.tpl.php
+0 1 94725684310736 1350 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687523120.json
+0 1 94725684298096 30196 0 0
+/home/web2kelompok8my/public_html/system/Router/Router.php
+0 1 0 20601 0 0
+/home/web2kelompok8my/public_html/system/HTTP/URI.php
+0 1 94725684338656 26632 0 0
+/home/web2kelompok8my/public_html/system/Log/Handlers/BaseHandler.php
+0 1 0 1486 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Escaper/Exception/ExceptionInterface.php
+0 1 94725684362368 104 0 0
+/home/web2kelompok8my/public_html/system/HTTP/IncomingRequest.php
+0 1 0 23005 0 0
+/home/web2kelompok8my/public_html/system/Session/Handlers/MemcachedHandler.php
+0 1 94725684353632 7953 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235363.json
+0 1 94725684293872 35323 0 0
+/home/web2kelompok8my/public_html/system/View/Plugins.php
+0 1 0 2329 0 0
+/home/web2kelompok8my/public_html/app/Config/App.php
+0 1 94725684266256 15977 0 0
+/home/web2kelompok8my/public_html/tests/_support/View/SampleClass.php
+0 1 0 1003 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/resources/compiled/rich.js
+0 1 94725684375168 11221 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688265212.json
+0 1 94725684292464 15005 0 0
+/home/web2kelompok8my/public_html/system/Commands/Database/MigrateRollback.php
+0 1 94725684307216 2907 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2023-06-23.log
+0 1 0 4806 0 0
+/home/web2kelompok8my/public_html/system/Autoloader/Autoloader.php
+0 1 0 9273 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/ru/Language.php
+0 1 94725684286256 351 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/CliRenderer.php
+0 1 94725684369552 5008 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/MethodValue.php
+0 1 94725684377664 7481 0 0
+/home/web2kelompok8my/public_html/tests/_support/Entity/Cast/CastPassParameters.php
+0 1 94725684278192 638 0 0
+/home/web2kelompok8my/public_html/app/Config/Mimes.php
+0 1 94725684262720 15852 0 0
+/home/web2kelompok8my/public_html/system/Router/Exceptions/RouterException.php
+0 1 94725684352112 1441 0 0
+/home/web2kelompok8my/public_html/app/Views/Dashboard_view.php
+0 1 0 2520 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/portrait_4.jpg
+0 1 94725684282128 21491 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235383.json
+0 1 94725684293520 35321 0 0
+/home/web2kelompok8my/public_html/tests/_support/HTTP/Files/CookiesHolder.txt
+0 1 94725684279552 1 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/toolbar.tpl.php
+0 1 94725684327024 10730 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/EventModel.php
+0 1 0 2879 0 0
+/home/web2kelompok8my/public_html/tests/_support/HTTP/Files/tmp/fileD.zip
+0 1 94725684279904 441 0 0
+/home/web2kelompok8my/public_html/app/Config/Boot/testing.php
+0 1 0 1236 0 0
+/home/web2kelompok8my/public_html/system/CodeIgniter.php
+0 1 0 30514 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/ClosureValue.php
+0 1 94725684378192 2116 0 0
+/home/web2kelompok8my/public_html/system/Security/Exceptions/SecurityException.php
+0 1 94725684352784 1239 0 0
+/home/web2kelompok8my/public_html/system/HTTP/Exceptions/HTTPException.php
+0 1 94725684341520 4720 0 0
+/home/web2kelompok8my/public_html/system/Commands/Housekeeping/ClearLogs.php
+0 1 94725684311616 2115 0 0
+/home/web2kelompok8my/public_html/system/Config/ForeignCharacters.php
+0 1 0 8033 0 0
+/home/web2kelompok8my/public_html/tests/_support/Widgets/OtherWidget.php
+0 1 94725684291136 308 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/CastException.php
+0 1 0 1303 0 0
+/home/web2kelompok8my/public_html/app/.htaccess
+0 1 94725684260880 124 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/resources/compiled/solarized-dark.css
+0 1 94725684374800 8274 0 0
+/home/web2kelompok8my/public_html/system/Test/FeatureResponse.php
+0 1 0 528 0 0
+/home/web2kelompok8my/public_html/system/Commands/Server/rewrite.php
+0 1 0 1271 0 0
+/home/web2kelompok8my/public_html/system/Common.php
+0 1 94725684301856 34585 0 0
+/home/web2kelompok8my/public_html/system/Commands/Utilities/Publish.php
+0 1 0 2622 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/ValidModel.php
+0 1 0 941 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688265379.json
+0 1 94725684292112 15057 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687523106.json
+0 1 94725684298272 30206 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/ConfigGenerator.php
+0 1 94725684309680 2143 0 0
+/home/web2kelompok8my/public_html/system/Commands/Housekeeping/ClearDebugbar.php
+0 1 94725684311792 1423 0 0
+/home/web2kelompok8my/public_html/writable/session/
+0 1 94725684300976 131 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockQuery.php
+0 1 0 353 0 0
+/home/web2kelompok8my/public_html/system/I18n/Time.php
+0 1 94725684342352 31069 0 0
+/home/web2kelompok8my/public_html/system/Test/FeatureTestCase.php
+0 1 0 10286 0 0
+/home/web2kelompok8my/public_html/system/Language/en/HTTP.php
+0 1 0 3515 0 0
+/home/web2kelompok8my/public_html/system/Pager/Pager.php
+0 1 0 11675 0 0
+/home/web2kelompok8my/public_html/app/Config/Security.php
+0 1 0 3383 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/landscape_4.jpg
+0 1 94725684283712 21486 0 0
+/home/web2kelompok8my/public_html/system/Database/ModelFactory.php
+0 1 0 1178 0 0
+/home/web2kelompok8my/public_html/system/HTTP/Negotiate.php
+0 1 0 10981 0 0
+/home/web2kelompok8my/public_html/system/Entity.php
+0 1 94725684301408 484 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/resources/compiled/shared.js
+0 1 94725684374992 529 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/BlacklistPlugin.php
+0 1 94725684367968 2738 0 0
+/home/web2kelompok8my/public_html/app/Controllers/Halo.php
+0 1 0 264 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/UserModel.php
+0 1 0 728 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/TablePlugin.php
+0 1 94725684370496 4906 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/TimestampPlugin.php
+0 1 94725684370112 1649 0 0
+/home/web2kelompok8my/public_html/public/style.css
+0 1 94725684246416 1529 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/landscape_5.jpg
+0 1 94725684283360 21790 0 0
+/home/web2kelompok8my/public_html/system/Session/Handlers/ArrayHandler.php
+0 1 94725684354336 2112 0 0
+/home/web2kelompok8my/public_html/app/Views/edit_view.php
+0 1 0 2321 0 0
+/home/web2kelompok8my/public_html/system/Cache/Handlers/FileHandler.php
+0 1 0 11861 0 0
+/home/web2kelompok8my/public_html/system/CLI/Console.php
+0 1 0 1330 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/ab/Allin.php
+0 1 0 354 0 0
+/home/web2kelompok8my/public_html/tests/_support/MigrationTestMigrations/Database/Migrations/2018-01-24-102302_Another_migration.php
+0 1 94725684286608 907 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/BooleanCast.php
+0 1 0 500 0 0
+/home/web2kelompok8my/public_html/system/Database/MigrationRunner.php
+0 1 0 22380 0 0
+/home/web2kelompok8my/public_html/tests/_support/Cache/RestrictiveHandler.php
+0 1 94725684274592 549 0 0
+/home/web2kelompok8my/public_html/system/Database/Seeder.php
+0 1 0 4224 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/SplFileInfoPlugin.php
+0 1 94725684364960 1855 0 0
+/home/web2kelompok8my/public_html/app/Config/Pager.php
+0 1 94725684262416 1202 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/URICast.php
+0 1 0 553 0 0
+/home/web2kelompok8my/public_html/system/Test/Fabricator.php
+0 1 0 14451 0 0
+/home/web2kelompok8my/public_html/system/Files/Exceptions/FileNotFoundException.php
+0 1 94725684333616 661 0 0
+/home/web2kelompok8my/public_html/tests/_support/Database/Seeds/CITestSeeder.php
+0 1 94725684277504 6600 0 0
+/home/web2kelompok8my/public_html/system/Database/Postgre/Connection.php
+0 1 94725684320784 14162 0 0
+/home/web2kelompok8my/public_html/system/HTTP/RequestInterface.php
+0 1 0 1547 0 0
+/home/web2kelompok8my/public_html/system/Filters/Honeypot.php
+0 1 0 1175 0 0
+/home/web2kelompok8my/public_html/system/RESTful/BaseResource.php
+0 1 0 1660 0 0
+/home/web2kelompok8my/public_html/system/Test/DOMParser.php
+0 1 0 7483 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Text/TracePlugin.php
+0 1 94725684373296 4108 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687578772.json
+0 1 94725684296864 15745 0 0
+/home/web2kelompok8my/public_html/system/Database/Forge.php
+0 1 0 30628 0 0
+/home/web2kelompok8my/public_html/app/Views/template/admin_header.php
+0 1 0 598 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-07-10.log
+0 1 0 90953 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687579006.json
+0 1 94725684296688 15778 0 0
+/home/web2kelompok8my/public_html/app/Views/errors/html/error_exception.php
+0 1 94725684272160 10639 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/JobModel.php
+0 1 0 641 0 0
+/home/web2kelompok8my/public_html/tests/README.md
+0 1 94725684273456 3546 0 0
+/home/web2kelompok8my/public_html/system/CLI/Exceptions/CLIException.php
+0 1 94725684305888 768 0 0
+/home/web2kelompok8my/public_html/system/Helpers/inflector_helper.php
+0 1 0 10367 0 0
+/home/web2kelompok8my/public_html/system/Pager/Views/default_full.php
+0 1 0 1213 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/en-ZZ/More.php
+0 1 94725684286080 417 0 0
+/home/web2kelompok8my/public_html/system/Helpers/form_helper.php
+0 1 0 21852 0 0
+/home/web2kelompok8my/public_html/tests/_support/MigrationTestMigrations/Database/Migrations/2018-01-24-102301_Some_migration.php
+0 1 94725684287056 817 0 0
+/home/web2kelompok8my/public_html/public/.htaccess
+0 1 94725684247136 1666 0 0
+/home/web2kelompok8my/public_html/system/Database/Config.php
+0 1 0 3637 0 0
+/home/web2kelompok8my/public_html/system/Config/AutoloadConfig.php
+0 1 0 5506 0 0
+/home/web2kelompok8my/public_html/app/Config/CURLRequest.php
+0 1 0 569 0 0
+/home/web2kelompok8my/public_html/system/Helpers/text_helper.php
+0 1 0 20759 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/FabricatorModel.php
+0 1 94725684288816 860 0 0
+/home/web2kelompok8my/public_html/tests/_support/Widgets/SomeWidget.php
+0 1 0 399 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/Views/model.tpl.php
+0 1 94725684310384 1225 0 0
+/home/web2kelompok8my/public_html/system/Database/QueryInterface.php
+0 1 0 2262 0 0
+/home/web2kelompok8my/public_html/public/robots.txt
+0 1 94725684246560 25 0 0
+/home/web2kelompok8my/public_html/system/Router/RouteCollection.php
+0 1 0 41814 0 0
+/home/web2kelompok8my/public_html/app/Config/Migrations.php
+0 1 0 1686 0 0
+/home/web2kelompok8my/public_html/app/Config/Email.php
+0 1 94725684264704 2595 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/BaseCollector.php
+0 1 94725684325472 5236 0 0
+/home/web2kelompok8my/public_html/system/Helpers/test_helper.php
+0 1 0 1725 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockBuilder.php
+0 1 0 367 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/XmlPlugin.php
+0 1 94725684363536 4976 0 0
+/home/web2kelompok8my/public_html/system/Config/DotEnv.php
+0 1 0 6878 0 0
+/home/web2kelompok8my/public_html/system/View/Exceptions/ViewException.php
+0 1 94725684384368 1333 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLSRV/Result.php
+0 1 0 4757 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/PageNotFoundException.php
+0 1 94725684331472 1679 0 0
+/home/web2kelompok8my/public_html/system/Encryption/Exceptions/EncryptionException.php
+0 1 94725684328032 2103 0 0
+/home/web2kelompok8my/public_html/tests/_support/Services.php
+0 1 0 1424 0 0
+/home/web2kelompok8my/public_html/system/Controller.php
+0 1 94725684301552 4362 0 0
+/home/web2kelompok8my/public_html/app/Views/header_view.php
+0 1 0 1541 0 0
+/home/web2kelompok8my/public_html/app/Config/Honeypot.php
+0 1 0 730 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/TraceValue.php
+0 1 94725684376432 1522 0 0
+/home/web2kelompok8my/public_html/system/Helpers/url_helper.php
+0 1 0 18486 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687523223.json
+0 1 94725684297392 15812 0 0
+/home/web2kelompok8my/public_html/system/Entity/Entity.php
+0 1 0 14556 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/toolbarloader.js
+0 1 94725684326848 3719 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/DepthLimitPlugin.php
+0 1 94725684371984 1481 0 0
+/home/web2kelompok8my/public_html/system/Debug/Iterator.php
+0 1 0 2781 0 0
+/home/web2kelompok8my/public_html/system/CLI/CommandRunner.php
+0 1 0 1649 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Log.php
+0 1 0 427 0 0
+/home/web2kelompok8my/public_html/tests/_support/Config/Filters.php
+0 1 0 378 0 0
+/home/web2kelompok8my/public_html/app/Views/template/halo_view.php
+0 1 0 262 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/PluginInterface.php
+0 1 94725684371232 1357 0 0
+/home/web2kelompok8my/public_html/system/RESTful/ResourcePresenter.php
+0 1 0 2328 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/DOMDocumentPlugin.php
+0 1 94725684366912 11535 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/SerializePlugin.php
+0 1 94725684365328 3680 0 0
+/home/web2kelompok8my/public_html/tests/_support/View/Views/simpler.php
+0 1 0 21 0 0
+/home/web2kelompok8my/public_html/system/Database/BaseUtils.php
+0 1 0 8251 0 0
+/home/web2kelompok8my/public_html/system/HTTP/CURLRequest.php
+0 1 0 19322 0 0
+/home/web2kelompok8my/public_html/system/Database/MySQLi/Connection.php
+0 1 0 17890 0 0
+/home/web2kelompok8my/public_html/system/View/Table.php
+0 1 94725684383440 12603 0 0
+/home/web2kelompok8my/public_html/app/Views/tambah_view.php
+0 1 0 2343 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/ArrayObjectPlugin.php
+0 1 94725684368496 1904 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Escaper/Exception/RuntimeException.php
+0 1 94725684362176 196 0 0
+/home/web2kelompok8my/public_html/system/Cache/Handlers/WincacheHandler.php
+0 1 94725684303744 3211 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/BinaryPlugin.php
+0 1 94725684368144 1693 0 0
+/home/web2kelompok8my/public_html/system/Filters/DebugToolbar.php
+0 1 0 1011 0 0
+/home/web2kelompok8my/public_html/system/Session/Handlers/FileHandler.php
+0 1 94725684353808 9330 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688265225.json
+0 1 94725684292288 14962 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLSRV/Builder.php
+0 1 0 18863 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/init.php
+0 1 0 2500 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/Plugin.php
+0 1 94725684365680 1751 0 0
+/home/web2kelompok8my/public_html/tests/_support/Config/Routes.php
+0 1 0 437 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-06-29.log
+0 1 0 11697 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-07-11.log
+0 1 0 117170 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/en/Core.php
+0 1 0 400 0 0
+/home/web2kelompok8my/public_html/system/Commands/Cache/ClearCache.php
+0 1 0 1796 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/SecondaryModel.php
+0 1 94725684288480 624 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/WithoutAutoIncrementModel.php
+0 1 94725684287280 567 0 0
+/home/web2kelompok8my/public_html/app/Database/Seeds/.gitkeep
+0 1 0 0 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/Representation/ColorRepresentation.php
+0 1 94725684379552 18421 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-07-05.log
+0 1 0 23702 0 0
+/home/web2kelompok8my/public_html/system/bootstrap.php
+0 1 94725684302160 4310 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockResourcePresenter.php
+0 1 94725684358736 675 0 0
+/home/web2kelompok8my/public_html/system/Test/DatabaseTestTrait.php
+0 1 0 8460 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/_events.tpl
+0 1 94725684326320 376 0 0
+/home/web2kelompok8my/public_html/system/HTTP/UserAgent.php
+0 1 0 7975 0 0
+/home/web2kelompok8my/public_html/system/Config/Factory.php
+0 1 0 1106 0 0
+/home/web2kelompok8my/public_html/app/Config/Encryption.php
+0 1 0 1989 0 0
+/home/web2kelompok8my/public_html/system/Database/Postgre/Forge.php
+0 1 0 5376 0 0
+/home/web2kelompok8my/public_html/system/Database/ConnectionInterface.php
+0 1 94725684317328 3885 0 0
+/home/web2kelompok8my/public_html/app/Language/.gitkeep
+0 1 94725684268768 0 0 0
+/home/web2kelompok8my/public_html/tests/_support/Config/BadRegistrar.php
+0 1 94725684276784 573 0 0
+/home/web2kelompok8my/public_html/app/Config/Cache.php
+0 1 94725684265952 6279 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/ClassMethodsPlugin.php
+0 1 94725684367792 3548 0 0
+/home/web2kelompok8my/public_html/tests/_support/Config/Registrar.php
+0 1 0 3862 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/StreamPlugin.php
+0 1 94725684364592 2573 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/LoggerInterface.php
+0 1 94725684380272 3114 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockEmail.php
+0 1 0 804 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/LoggerTrait.php
+0 1 94725684380096 3415 0 0
+/home/web2kelompok8my/public_html/system/Encryption/Encryption.php
+0 1 0 4161 0 0
+/home/web2kelompok8my/public_html/system/Format/XMLFormatter.php
+0 1 0 3015 0 0
+/home/web2kelompok8my/public_html/system/HTTP/Files/UploadedFileInterface.php
+0 1 94725684341696 5190 0 0
+/home/web2kelompok8my/public_html/system/Config/Routes.php
+0 3 0 3795 0 0
+/home/web2kelompok8my/public_html/writable/logs/
+0 1 94725684300528 131 0 0
+/home/web2kelompok8my/public_html/tests/.htaccess
+0 1 94725684273600 124 0 0
+/home/web2kelompok8my/public_html/system/Session/Session.php
+0 1 0 26395 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2023-06-12.log
+0 1 0 33750 0 0
+/home/web2kelompok8my/public_html/system/Pager/PagerInterface.php
+0 1 0 3403 0 0
+/home/web2kelompok8my/public_html/system/Test/ControllerResponse.php
+0 1 0 1905 0 0
+/home/web2kelompok8my/public_html/system/View/Parser.php
+0 1 0 21840 0 0
+/home/web2kelompok8my/public_html/system/View/RendererInterface.php
+0 1 0 2267 0 0
+/home/web2kelompok8my/public_html/system/Database/ResultInterface.php
+0 1 0 4006 0 0
+/home/web2kelompok8my/public_html/app/Controllers/Dashboard_home.php
+0 1 0 3493 0 0
+/home/web2kelompok8my/public_html/system/Filters/FilterInterface.php
+0 1 0 1383 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/resources/compiled/original.css
+0 1 94725684375696 8107 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/landscape_3.jpg
+0 1 94725684283888 21954 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Utils.php
+0 1 0 8178 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/DocstringPlugin.php
+0 1 94725684371792 2446 0 0
+/home/web2kelompok8my/public_html/system/Images/Handlers/ImageMagickHandler.php
+0 1 94725684343184 14053 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/portrait_3.jpg
+0 1 94725684282304 21944 0 0
+/home/web2kelompok8my/public_html/tests/_support/Entity/Cast/CastBase64.php
+0 1 94725684278368 888 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/DatetimeCast.php
+0 1 0 943 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-07-09.log
+0 1 0 177271 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687523126.json
+0 1 94725684297920 30186 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/_logs.tpl
+0 1 0 421 0 0
+/home/web2kelompok8my/public_html/app/Config/Modules.php
+0 1 0 1599 0 0
+/home/web2kelompok8my/public_html/tests/_support/Config/Services.php
+0 1 0 1065 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/CastInterface.php
+0 1 0 752 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/DateTimePlugin.php
+0 1 94725684367088 1737 0 0
+/home/web2kelompok8my/public_html/system/Files/Exceptions/FileException.php
+0 1 94725684333792 1332 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/ControllerGenerator.php
+0 1 94725684309504 3648 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/landscape_0.jpg
+0 1 94725684284416 21735 0 0
+/home/web2kelompok8my/public_html/system/Database/Postgre/Result.php
+0 1 0 3294 0 0
+/home/web2kelompok8my/public_html/system/Images/Handlers/GDHandler.php
+0 1 0 15071 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688232551.json
+0 1 94725684295632 14607 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/CSVCast.php
+0 1 0 654 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Escaper/LICENSE.md
+0 1 0 1498 0 0
+/home/web2kelompok8my/public_html/system/Model.php
+0 1 94725684301264 24260 0 0
+/home/web2kelompok8my/public_html/tests/_support/Language/en/Nested.php
+0 1 0 376 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/DebugTraceableTrait.php
+0 1 94725684332496 1118 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235455.json
+0 1 94725684293168 35332 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/DownloadException.php
+0 1 94725684332320 1135 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLite3/Utils.php
+0 1 0 832 0 0
+/home/web2kelompok8my/public_html/tests/_support/HTTP/Files/tmp/fileC.csv
+0 1 94725684280432 16 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockLanguage.php
+0 1 0 1263 0 0
+/home/web2kelompok8my/public_html/app/Config/Kint.php
+0 1 94725684263168 1556 0 0
+/home/web2kelompok8my/public_html/system/Database/Exceptions/ExceptionInterface.php
+0 1 94725684318464 556 0 0
+/home/web2kelompok8my/public_html/system/Database/Postgre/PreparedQuery.php
+0 1 94725684320448 2836 0 0
+/home/web2kelompok8my/public_html/system/Commands/Server/Serve.php
+0 1 0 2743 0 0
+/home/web2kelompok8my/public_html/system/RESTful/ResourceController.php
+0 1 0 2449 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/TablePlugin.php
+0 1 94725684364416 3040 0 0
+/home/web2kelompok8my/public_html/system/Log/Handlers/ErrorlogHandler.php
+0 1 94725684348832 2153 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/Steveston_dusk.JPG
+0 1 94725684280768 121762 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/Representation/Representation.php
+0 1 94725684378944 2111 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/ValidationGenerator.php
+0 1 94725684307904 1812 0 0
+/home/web2kelompok8my/public_html/system/CLI/GeneratorTrait.php
+0 1 0 9960 0 0
+/home/web2kelompok8my/public_html/tests/_support/RESTful/Worker.php
+0 1 0 452 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/ThrowablePlugin.php
+0 1 94725684364240 2000 0 0
+/home/web2kelompok8my/public_html/system/Cache/Handlers/RedisHandler.php
+0 1 94725684303920 6675 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/LICENSE
+0 1 0 1085 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/RecursionPlugin.php
+0 1 94725684371040 1478 0 0
+/home/web2kelompok8my/public_html/system/View/Cell.php
+0 1 94725684384224 6051 0 0
+/home/web2kelompok8my/public_html/app/Config/Boot/development.php
+0 1 0 1278 0 0
+/home/web2kelompok8my/public_html/system/Database/MySQLi/Result.php
+0 1 0 4384 0 0
+/home/web2kelompok8my/public_html/tests/_support/MigrationTestMigrations/Database/Migrations/2018-01-24-102300_Another_migration.py
+0 1 94725684286832 469 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/resources/compiled/solarized.css
+0 1 94725684374608 8179 0 0
+/home/web2kelompok8my/public_html/system/HTTP/DownloadResponse.php
+0 1 0 7684 0 0
+/home/web2kelompok8my/public_html/app/Config/Generators.php
+0 1 0 1910 0 0
+/home/web2kelompok8my/public_html/app/Helpers/.gitkeep
+0 1 94725684268624 0 0 0
+/home/web2kelompok8my/public_html/system/
+0 1 94725684301120 131 0 0
+/home/web2kelompok8my/public_html/app/Common.php
+0 1 94725684260592 508 0 0
+/home/web2kelompok8my/public_html/system/Language/en/RESTful.php
+0 1 0 350 0 0
+/home/web2kelompok8my/public_html/app/Views/errors/cli/error_404.php
+0 1 0 102 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/TimestampCast.php
+0 1 0 677 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/Views/entity.tpl.php
+0 1 94725684310912 223 0 0
+/home/web2kelompok8my/public_html/app/Views/warga_view.php
+0 1 0 2535 0 0
+/home/web2kelompok8my/public_html/.no-header.php-cs-fixer.dist.php
+0 1 0 1436 0 0
+/home/web2kelompok8my/public_html/system/Honeypot/Honeypot.php
+0 1 0 2359 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Format.php
+0 1 0 583 0 0
+/home/web2kelompok8my/public_html/system/ComposerScripts.php
+0 1 0 5105 0 0
+/home/web2kelompok8my/public_html/system/Language/en/View.php
+0 1 0 716 0 0
+/home/web2kelompok8my/public_html/system/HTTP/RequestTrait.php
+0 1 0 10567 0 0
+/home/web2kelompok8my/public_html/system/Helpers/date_helper.php
+0 1 0 2138 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Validation.php
+0 1 0 4696 0 0
+/home/web2kelompok8my/public_html/system/I18n/Exceptions/I18nException.php
+0 1 94725684342496 2385 0 0
+/home/web2kelompok8my/public_html/app/Config/Constants.php
+0 1 0 3589 0 0
+/home/web2kelompok8my/public_html/system/Helpers/number_helper.php
+0 1 0 7025 0 0
+/home/web2kelompok8my/public_html/system/CLI/BaseCommand.php
+0 1 0 5165 0 0
+/home/web2kelompok8my/public_html/system/Commands/Database/Migrate.php
+0 1 0 2401 0 0
+/home/web2kelompok8my/public_html/system/Database/MySQLi/Forge.php
+0 1 0 6501 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/BlacklistPlugin.php
+0 1 94725684372736 1480 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLSRV/PreparedQuery.php
+0 1 94725684322432 2796 0 0
+/home/web2kelompok8my/public_html/app/Controllers/page.php
+0 1 0 1156 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/Routes.php
+0 1 94725684324240 4571 0 0
+/home/web2kelompok8my/public_html/system/HTTP/MessageInterface.php
+0 1 0 2340 0 0
+/home/web2kelompok8my/public_html/system/Test/Filters/CITestStreamFilter.php
+0 1 94725684357248 1218 0 0
+/home/web2kelompok8my/public_html/system/Test/Interfaces/FabricatorModel.php
+0 1 94725684357424 2251 0 0
+/home/web2kelompok8my/public_html/system/Cache/Exceptions/CacheException.php
+0 1 94725684303568 1459 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Test.php
+0 1 0 352 0 0
+/home/web2kelompok8my/public_html/app/Controllers/warga.php
+0 1 0 3539 0 0
+/home/web2kelompok8my/public_html/app/Config/ContentSecurityPolicy.php
+0 1 0 3915 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/SourcePlugin.php
+0 1 94725684370672 2827 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockCache.php
+0 1 0 7327 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/EntityGenerator.php
+0 1 94725684309328 1770 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Escaper/Escaper.php
+0 1 0 12333 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Pager.php
+0 1 0 731 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Text/Plugin.php
+0 1 94725684373664 1532 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLite3/Forge.php
+0 1 0 6973 0 0
+/home/web2kelompok8my/public_html/system/Security/SecurityInterface.php
+0 1 0 1895 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Security.php
+0 1 0 488 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/ToStringPlugin.php
+0 1 94725684363888 2073 0 0
+/home/web2kelompok8my/public_html/system/Database/MySQLi/Builder.php
+0 1 0 1220 0 0
+/home/web2kelompok8my/public_html/system/Session/SessionInterface.php
+0 1 0 5810 0 0
+/home/web2kelompok8my/public_html/app/Views/template/admin_footer.php
+0 1 0 104 0 0
+/home/web2kelompok8my/public_html/tests/_support/HTTP/Files/tmp/fileB.txt
+0 1 94725684280080 9 0 0
+/home/web2kelompok8my/public_html/system/Test/CIUnitTestCase.php
+0 1 0 13455 0 0
+/home/web2kelompok8my/public_html/system/Log/Handlers/FileHandler.php
+0 1 0 3303 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/resources/compiled/plain.js
+0 1 94725684375344 326 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/ClosurePlugin.php
+0 1 94725684367440 3038 0 0
+/home/web2kelompok8my/public_html/app/
+0 1 94725684247280 131 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/DateTimeValue.php
+0 1 94725684378016 1746 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688234478.json
+0 1 94725684294752 15036 0 0
+/home/web2kelompok8my/public_html/system/Database/Database.php
+0 1 0 3847 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688235516.json
+0 1 94725684292992 34710 0 0
+/home/web2kelompok8my/public_html/system/Validation/Views/list.php
+0 1 0 200 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/Database.php
+0 1 94725684325120 7715 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/toolbar.js
+0 1 0 18409 0 0
+/home/web2kelompok8my/public_html/app/Views/errors/html/debug.css
+0 1 0 3301 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockTable.php
+0 1 0 698 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockServices.php
+0 1 0 794 0 0
+/home/web2kelompok8my/public_html/system/Pager/Exceptions/PagerException.php
+0 1 94725684349984 712 0 0
+/home/web2kelompok8my/public_html/system/Config/View.php
+0 1 0 3565 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockAutoload.php
+0 1 0 558 0 0
+/home/web2kelompok8my/public_html/system/Encryption/Handlers/SodiumHandler.php
+0 1 94725684328208 3468 0 0
+/home/web2kelompok8my/public_html/system/Database/BasePreparedQuery.php
+0 1 0 4521 0 0
+/home/web2kelompok8my/public_html/tests/_support/View/SampleClassWithInitController.php
+0 1 94725684290160 846 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/ThrowableValue.php
+0 1 94725684376784 1889 0 0
+/home/web2kelompok8my/public_html/tests/_support/Models/ValidErrorsModel.php
+0 1 94725684287616 849 0 0
+/home/web2kelompok8my/public_html/app/Controllers/laporan.php
+0 1 0 566 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Core.php
+0 1 0 968 0 0
+/home/web2kelompok8my/public_html/system/HTTP/Message.php
+0 1 0 2732 0 0
+/home/web2kelompok8my/public_html/composer.json
+0 1 94725684246016 2489 0 0
+/home/web2kelompok8my/public_html/app/Config/Toolbar.php
+0 1 0 3491 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/SeederGenerator.php
+0 1 94725684308272 1776 0 0
+/home/web2kelompok8my/public_html/SECURITY.md
+0 1 94725684245568 1407 0 0
+/home/web2kelompok8my/public_html/system/Throttle/Throttler.php
+0 1 0 5058 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687523236.json
+0 1 94725684297040 30184 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/StreamValue.php
+0 1 94725684376960 1737 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/RichRenderer.php
+0 1 94725684369024 18928 0 0
+/home/web2kelompok8my/public_html/app/Config/Exceptions.php
+0 1 0 1845 0 0
+/home/web2kelompok8my/public_html/system/HTTP/ContentSecurityPolicy.php
+0 1 0 19337 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1687579323.json
+0 1 94725684296336 15775 0 0
+/home/web2kelompok8my/public_html/app/Config/Boot/production.php
+0 1 0 832 0 0
+/home/web2kelompok8my/public_html/app/Config/Cookie.php
+0 1 94725684265328 3635 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/FilterGenerator.php
+0 1 94725684309152 1769 0 0
+/home/web2kelompok8my/public_html/tests/_support/Files/able/fig_3.php
+0 1 0 251 0 0
+/home/web2kelompok8my/public_html/system/Cache/Handlers/BaseHandler.php
+0 1 0 3140 0 0
+/home/web2kelompok8my/public_html/app/Controllers/iuran.php
+0 1 0 1964 0 0
+/home/web2kelompok8my/public_html/system/Encryption/Handlers/BaseHandler.php
+0 1 94725684328560 1870 0 0
+/home/web2kelompok8my/public_html/system/Database/BaseBuilder.php
+0 1 0 75599 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/Plugin.php
+0 1 94725684371424 2893 0 0
+/home/web2kelompok8my/public_html/system/CLI/CLI.php
+0 1 94725684305744 30953 0 0
+/home/web2kelompok8my/public_html/system/Validation/ValidationInterface.php
+0 1 94725684381824 2510 0 0
+/home/web2kelompok8my/public_html/system/Pager/PagerRenderer.php
+0 1 0 9543 0 0
+/home/web2kelompok8my/public_html/app/Config/Format.php
+0 1 94725684263776 2559 0 0
+/home/web2kelompok8my/public_html/app/Config/Filters.php
+0 1 0 1537 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLSRV/Utils.php
+0 1 0 1256 0 0
+/home/web2kelompok8my/public_html/system/Database/Exceptions/DatabaseException.php
+0 1 94725684318816 468 0 0
+/home/web2kelompok8my/public_html/system/Commands/ListCommands.php
+0 1 0 3088 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockCodeIgniter.php
+0 1 0 455 0 0
+/home/web2kelompok8my/public_html/app/Controllers/Home.php
+0 1 0 153 0 0
+/home/web2kelompok8my/public_html/system/Language/en/CLI.php
+0 1 0 1949 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/Views/seeder.tpl.php
+0 1 94725684310208 147 0 0
+/home/web2kelompok8my/public_html/system/Files/File.php
+0 1 94725684333472 5755 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/portrait_8.jpg
+0 1 94725684281424 21954 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Files.php
+0 1 0 526 0 0
+/home/web2kelompok8my/public_html/tests/_support/Autoloader/FatalLocator.php
+0 1 94725684274416 1779 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockCommon.php
+0 1 0 751 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Migrations.php
+0 1 0 2564 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Cookie.php
+0 1 0 1373 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688233316.json
+0 1 94725684295104 15019 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/_database.tpl
+0 1 94725684326496 727 0 0
+/home/web2kelompok8my/public_html/system/Helpers/html_helper.php
+0 1 0 15890 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688232568.json
+0 1 94725684295456 15001 0 0
+/home/web2kelompok8my/public_html/system/Entity/Cast/FloatCast.php
+0 1 0 498 0 0
+/home/web2kelompok8my/public_html/tests/_support/RESTful/Worker2.php
+0 1 0 451 0 0
+/home/web2kelompok8my/public_html/system/Config/Services.php
+0 1 0 19709 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockAppConfig.php
+0 1 0 1227 0 0
+/home/web2kelompok8my/public_html/.env
+0 1 94725684246160 4541 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/debugbar_1688233037.json
+0 1 94725684295280 14407 0 0
+/home/web2kelompok8my/public_html/app/Models/Iuran_Model.php
+0 1 0 999 0 0
+/home/web2kelompok8my/public_html/tests/_support/Autoloader/functions.php
+0 1 94725684274240 488 0 0
+/home/web2kelompok8my/public_html/public/kelompok.png
+0 1 94725684260736 814669 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/TabPluginInterface.php
+0 1 94725684370304 1440 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/ValuePluginInterface.php
+0 1 94725684369728 1411 0 0
+/home/web2kelompok8my/public_html/system/Format/FormatterInterface.php
+0 1 0 510 0 0
+/home/web2kelompok8my/public_html/tests/_support/Database/Seeds/AnotherSeeder.php
+0 1 94725684277680 606 0 0
+/home/web2kelompok8my/public_html/system/Modules/Modules.php
+0 1 0 1002 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Collectors/Timers.php
+0 1 94725684324064 1593 0 0
+/home/web2kelompok8my/public_html/system/Filters/InvalidChars.php
+0 1 0 2889 0 0
+/home/web2kelompok8my/public_html/system/Honeypot/Exceptions/HoneypotException.php
+0 1 94725684338320 922 0 0
+/home/web2kelompok8my/public_html/system/Language/en/Email.php
+0 1 0 1943 0 0
+/home/web2kelompok8my/public_html/tests/_support/Publishers/TestPublisher.php
+0 1 94725684289312 1082 0 0
+/home/web2kelompok8my/public_html/public/akmal.jpg
+0 1 94725684246848 24787 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockSecurityConfig.php
+0 1 94725684358080 727 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/MysqliPlugin.php
+0 1 94725684365856 6311 0 0
+/home/web2kelompok8my/public_html/tests/_support/Commands/Foobar.php
+0 1 0 254 0 0
+/home/web2kelompok8my/public_html/system/Database/MySQLi/PreparedQuery.php
+0 1 94725684319312 2346 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Renderer/Rich/MicrotimePlugin.php
+0 1 94725684371600 2923 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/ci-logo.jpeg
+0 1 0 7534 0 0
+/home/web2kelompok8my/public_html/writable/logs/log-2022-07-12.log
+0 1 0 49139 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/ResourceValue.php
+0 1 94725684377312 1663 0 0
+/home/web2kelompok8my/public_html/system/Validation/Validation.php
+0 1 0 22141 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/landscape_2.jpg
+0 1 94725684284064 21747 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar.php
+0 2 0 35960 0 0
+/home/web2kelompok8my/public_html/app/Config/Routes.php
+0 1 94725684261968 2025 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockCURLRequest.php
+0 1 0 1120 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/init_helpers.php
+0 1 94725684363040 2761 0 0
+/home/web2kelompok8my/public_html/tests/_support/Images/EXIFsamples/landscape_6.jpg
+0 1 94725684283184 21948 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/toolbar.css
+0 1 94725684327360 19891 0 0
+/home/web2kelompok8my/public_html/writable/debugbar/.gitkeep
+0 1 0 0 0 0
+/home/web2kelompok8my/public_html/tests/_support/Controllers/Popcorn.php
+0 1 94725684277120 1756 0 0
+/home/web2kelompok8my/public_html/system/Commands/Generators/ModelGenerator.php
+0 1 94725684308624 3656 0 0
+/home/web2kelompok8my/public_html/system/Images/ImageHandlerInterface.php
+0 1 94725684342672 3888 0 0
+/home/web2kelompok8my/public_html/app/Config/Database.php
+0 1 0 2307 0 0
+/home/web2kelompok8my/public_html/app/Config/Feature.php
+0 1 0 819 0 0
+/home/web2kelompok8my/public_html/system/Email/Email.php
+0 1 0 58074 0 0
+/home/web2kelompok8my/public_html/system/Exceptions/TestException.php
+0 1 0 547 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/BlobValue.php
+0 1 94725684378368 6009 0 0
+/home/web2kelompok8my/public_html/system/Commands/Help.php
+0 1 0 1768 0 0
+/home/web2kelompok8my/public_html/system/Autoloader/FileLocator.php
+0 1 0 11023 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Parser/ProxyPlugin.php
+0 1 94725684365504 2178 0 0
+/home/web2kelompok8my/public_html/system/.htaccess
+0 1 94725684302304 118 0 0
+/home/web2kelompok8my/public_html/system/Encryption/Handlers/OpenSSLHandler.php
+0 1 94725684328384 2809 0 0
+/home/web2kelompok8my/public_html/system/Debug/Toolbar/Views/_routes.tpl
+0 1 94725684325648 1023 0 0
+/home/web2kelompok8my/public_html/system/ThirdParty/Kint/Zval/ParameterValue.php
+0 1 94725684377488 3286 0 0
+/home/web2kelompok8my/public_html/app/Config/Publisher.php
+0 1 0 803 0 0
+/home/web2kelompok8my/public_html/system/Database/SQLite3/Result.php
+0 1 0 3788 0 0
+/home/web2kelompok8my/public_html/system/Test/Mock/MockResult.php
+0 1 0 1816 0 0
+# End Of Table - urls
+# -sites- (monthly)
+36.70.185.218
+0 759 759 6307467 1 1688266969
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/LICENSE
+114.10.65.179
+0 9 9 8259 0 0
+-
+114.10.31.185
+0 1 1 281 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+36.70.185.218
+0 759 759 6307467 1 1688266969
+/home/web2kelompok8my/public_html/system/ThirdParty/PSR/Log/LICENSE
+114.10.65.179
+0 9 9 8259 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+web2kelompok8my
+0 769 769 6316007 2 1688266969
+# End Of Table - usernames

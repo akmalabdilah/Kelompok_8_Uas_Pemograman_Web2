@@ -1,0 +1,201 @@
+# Webalizer V2.23-08 Incremental Data - 07/03/2023 03:08:39
+2023 7 3 3 8 39
+34 22 10 13 3 11 95275 14 9 0
+1 3 15 1 3
+23 22 94100 5 5 3
+5 0 1175 4 5 4
+6 0 0 1 4 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+3 0 0 2
+5 0 470 4
+0 0 0 0
+1 0 235 1
+0 0 0 0
+2 0 470 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+15 14 2092 3
+0 0 0 0
+3 3 192 0
+5 5 91816 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+22
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+# -urls- 
+/.well-known/pki-validation/DBE7F0669C8DF515057852062EE753B3.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/64BC19BA0BAB195B7B3FB8CB4B7B58A6.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/CB3B72B8FBFD1D2AB3DDBC58C3277154.txt
+0 6 0 462 0 0
+/.well-known/pki-validation/8B8B9FA57A6F03EA7B42A593F10CC81C.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/AA57C0634C78D015BC3375B5191C214F.txt
+0 1 0 64 0 0
+/favicon.ico
+0 2 0 10860 0 0
+/.well-known/pki-validation/850F409F9D73EBF9172B2F5245E40ABC.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/37D70D221D886E68F363591FBD69C2EC.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/90D5E5818FF667E1729C9858B1D73635.txt
+0 1 0 64 0 0
+/
+0 4 0 82177 7 0
+/.well-known/pki-validation/AB5A648B110A42207D986CEAEBBC8955.txt
+0 1 0 64 0 0
+/robots.txt
+0 1 0 25 0 0
+/.well-known/pki-validation/D17A38FCEC31E148A8D8FE35AE2025C2.txt
+0 1 0 64 0 0
+# End Of Table - urls
+# -sites- (monthly)
+103-31-39-154.cprapid.com
+0 12 12 807 0 0
+-
+125.163.24.57
+0 5 5 91816 1 1688232551
+/
+114-4-215-114.resources.indosat.com
+0 6 0 0 2 1688353717
+-
+184.94.240.88
+0 2 0 470 1 1688281752
+/
+secure.trust-provider.net
+0 3 3 231 0 0
+-
+79.104.53.14
+0 1 0 0 1 1688221449
+/
+65.154.226.166
+0 1 0 235 1 1688267402
+/
+205.169.39.122
+0 2 2 1246 1 1688220338
+/
+scanner-07.ch1.censys-scanner.com
+0 1 0 235 1 1688275725
+/
+65.154.226.171
+0 1 0 235 1 1688267334
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+114-4-215-114.resources.indosat.com
+0 6 0 0 2 1688353717
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://web2kelompok8.my.id/halo
+0 4
+- (Direct Request)
+0 28
+http://web2kelompok8.my.id/
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 6
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 1
+COMODO DCV
+0 12
+Go-http-client/1.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5615.121 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0
+0 2
+Sectigo DCV
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,296 @@
+# Webalizer V2.23-08 Incremental Data - 07/03/2023 06:15:20
+2023 7 3 6 15 20
+448 120 30 8 11 21 5164061 416 33 0
+4 35 57 1 3
+177 42 1381558 25 163 21
+191 51 2684215 4 180 6
+80 27 1098288 4 73 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+33 13 529977 33
+49 20 693126 47
+71 17 681160 64
+3 1 40952 3
+35 10 463149 31
+55 13 630693 52
+25 4 743446 23
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+43 6 5111 43
+21 1 5430 14
+0 0 0 0
+57 22 890707 56
+56 13 480310 50
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2
+0
+0
+120
+0
+0
+0
+0
+0
+0
+0
+19
+0
+0
+0
+0
+0
+0
+0
+0
+0
+196
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+66
+0
+0
+43
+0
+0
+# -urls- 
+/public/iuran
+0 18 94037207043536 554112 0 0
+/public/Dashboard_view
+0 19 94037207035648 645487 1 0
+/public/warga
+0 9 0 305757 0 0
+/favicon.ico
+0 2 0 10860 0 0
+/public/
+0 39 0 1578170 5 2
+/public/home
+0 6 0 242795 0 0
+/home
+0 1 0 40466 0 0
+/
+0 26 0 676199 22 5
+# End Of Table - urls
+# -sites- (monthly)
+36.83.192.246
+0 3 1 33989 1 1688235551
+/
+47.89.193.239
+0 1 0 0 0 0
+-
+research.esrg.stanford.edu
+0 6 3 2574 2 1688234706
+/
+36.70.185.218
+0 24 9 369143 2 1688270004
+-
+114.10.65.179
+0 254 65 3389341 3 1688285337
+/public/warga
+104.164.173.191
+0 2 2 1246 1 1688220280
+/
+120.188.67.189
+0 8 1 5430 1 1688225662
+/
+114.10.31.185
+0 32 0 729 1 1688223304
+-
+5.8.10.202
+0 3 0 0 1 1688226212
+-
+183.129.153.157
+0 6 2 81904 2 1688362285
+/public/
+125.163.24.57
+0 4 4 164794 1 1688232552
+/
+47.88.94.28
+0 1 0 0 1 1688225217
+/
+scanner-26.ch1.censys-scanner.com
+0 6 5 90431 2 1688269016
+/
+scanner-25.ch1.censys-scanner.com
+0 1 0 322 1 1688223468
+/
+114-4-215-114.resources.indosat.com
+0 51 16 706527 2 1688364920
+-
+static-198-54-132-157.cust.tzulo.com
+0 1 1 623 1 1688220428
+/
+167.99.213.169
+0 1 0 0 1 1688226408
+/
+47.88.94.161
+0 1 0 0 0 0
+-
+scanner-29.ch1.censys-scanner.com
+0 2 0 0 1 1688222096
+/
+47.254.85.182
+0 1 0 0 1 1688225211
+/
+79.104.53.14
+0 1 0 0 1 1688221447
+/
+47.88.86.63
+0 1 0 0 1 1688225215
+/
+cache.google.com
+0 4 1 43242 2 1688350829
+/
+scanner-07.ch1.censys-scanner.com
+0 1 0 322 1 1688222466
+/
+114.10.26.229
+0 5 0 0 1 1688231494
+/
+scanner-08.ch1.censys-scanner.com
+0 3 2 4069 1 1688271421
+/
+47.88.6.178
+0 2 0 0 0 0
+-
+47.88.5.56
+0 1 0 0 0 0
+-
+103.113.77.78
+0 21 8 269375 1 1688357105
+-
+47.88.90.156
+0 1 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+183.129.153.157
+0 6 2 81904 2 1688362285
+/public/
+114-4-215-114.resources.indosat.com
+0 51 16 706527 2 1688364920
+-
+cache.google.com
+0 2 1 40482 1 1688350829
+/
+103.113.77.78
+0 21 8 269375 1 1688357105
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://103.31.39.154:2087/
+0 1
+https://web2kelompok8.my.id/home
+0 2
+https://www.google.com/
+0 3
+- (Direct Request)
+0 311
+https://web2kelompok8.my.id/public/home
+0 6
+https://web2kelompok8.my.id/public/warga
+0 22
+https://web2kelompok8.my.id/
+0 1
+https://web2kelompok8.my.id/public/
+0 41
+http://web2kelompok8.my.id/
+0 4
+https://web2kelompok8.my.id/public/Dashboard_view
+0 30
+https://web2kelompok8.my.id/public/iuran
+0 27
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 357
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; Trident/3.0)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 16
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.182
+0 4
+Go-http-client/1.1
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+0 18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+0 2
+WhatsApp/2.2324.6 W
+0 1
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/3.0)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 zgrab/0.x
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15
+0 2
+Mozilla/5.0 Mozilla/5.0 (Windows NT 6.0; rv:27.0) Gecko/20150311 Firefox/27.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+0 6
+Mozilla/5.0 (Linux; Android 12; M2007J20CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 11; M2004J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+0 9
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.86 Safari/533.4
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

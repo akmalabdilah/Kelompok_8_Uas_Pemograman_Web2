@@ -1,0 +1,9 @@
+CRITICAL - 2023-07-01 23:27:12 --> Invalid file: halo_view.php
+#0 /home/web2kelompok8my/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('halo_view.php')
+#1 /home/web2kelompok8my/public_html/system/Common.php(1089): CodeIgniter\View\View->render('halo_view', Array, true)
+#2 /home/web2kelompok8my/public_html/app/Controllers/Halo.php(11): view('halo_view', Array)
+#3 /home/web2kelompok8my/public_html/system/CodeIgniter.php(832): App\Controllers\Halo->index()
+#4 /home/web2kelompok8my/public_html/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Halo))
+#5 /home/web2kelompok8my/public_html/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/web2kelompok8my/public_html/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
