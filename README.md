@@ -79,7 +79,7 @@ Saya dua hosting seperti link yang di atas kenapa dua hosting karna satu hosting
 2. Kalian cari dan masuk pada menu file manager
 </P>
 
-![11_Lab11Web](Gambar/4.png)
+![11_Lab11Web](Gambar/4.JPG)
 
 <p>
 3. Setelah itu kalian akan di sugukan tampilan seperti ini 
@@ -112,7 +112,7 @@ Jangan lupa di dalam file manager ini langsung kalian cari bacaan +folder dan na
 kalian ikuti gambar dibawah supaya kalian paham.
 </P>
 
-![11_Lab11Web](Gambar/9.png)
+![11_Lab11Web](Gambar/9.JPG)
 ![11_Lab11Web](Gambar/10.png)
 ![11_Lab11Web](Gambar/11.png)
 ![11_Lab11Web](Gambar/12.png)
@@ -130,18 +130,18 @@ Kembali kemunu utama cari menu phpmyadmin dan masuk menu itu kita masukan file d
 catatan: sesuaikan dengan nama domain nama database nama userdatabe serta password yangb kalian buat
 </P>
 
-![11_Lab11Web](Gambar/15.png)
+![11_Lab11Web](Gambar/15.JPG)
 
 <p>
 8. karna penjelasan banyak kalian ikuti saja gambar dibawah
 
 </P>
 
-![11_Lab11Web](Gambar/16.png)
+![11_Lab11Web](Gambar/16.JPG)
 
 <p>masuk kemeni ci4/app/config/app.php</p>
 
-![11_Lab11Web](Gambar/17.png)
+![11_Lab11Web](Gambar/17.JPG)
 
 <p>masuk kemeni ci4/app/config/database.php</p>
 
